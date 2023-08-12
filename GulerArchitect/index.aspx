@@ -15,7 +15,7 @@
                             <div class="col-10 col-lg-8">
                                 <h1 class="display-1 text-white animated slideInDown">Best Architecture And Interior Design Services</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Read More</a>
+                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Devamı için</a>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,7 @@
                             <div class="col-10 col-lg-8">
                                 <h1 class="display-1 text-white animated slideInDown">Best Architecture And Interior Design Services</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Read More</a>
+                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Devamı için</a>
                             </div>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                             <div class="col-10 col-lg-8">
                                 <h1 class="display-1 text-white animated slideInDown">Best Architecture And Interior Design Services</h1>
                                 <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Read More</a>
+                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Devamı için</a>
                             </div>
                         </div>
                     </div>
@@ -113,8 +113,8 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="Assets/img/icons/icon-5.png" alt="Icon">
                             <h3 class="mb-3">Mimari</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <p class="mb-4">Hayallerinizin mimarıyız! Estetik ve işlevsellikle harmanlanan özgün tasarımlarımızla size özel çözümler sunuyoruz. İhtiyaçlarınıza uygun mekânlar yaratmak için buradayız. Sizi memnun etmek için heyecanla çalışıyoruz.</p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
                     </div>
                 </div>
@@ -124,8 +124,8 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="Assets/img/icons/icon-7.png" alt="Icon">
                             <h3 class="mb-3">Ev Planlaması</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <p class="mb-4">Evlerinizin hayalini bizimle kurun! Mimarlık şirketimiz, size özel ev planlaması hizmetleri sunarak, yaşam alanlarınızı mükemmelliğe taşıyor. Estetik, işlevsellik ve konforu bir arada sunan tasarımlarımızla, evinizi gerçek bir huzurlu konut haline getiriyoruz.</p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
                     </div>
                 </div>
@@ -135,8 +135,8 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="Assets/img/icons/icon-8.png" alt="Icon">
                             <h3 class="mb-3">İç Mimari</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <p class="mb-4">Mekânlarınızı dönüştürmek için buradayız. İç mimari konusunda uzman ekibimizle, size özel ve etkileyici tasarımlar sunuyoruz. Estetiği işlevsellikle birleştirerek, yaşam alanlarınızı tam anlamıyla yansıtan mekânlar oluşturuyoruz.</p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
                     </div>
                 </div>
@@ -146,8 +146,8 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="Assets/img/icons/icon-9.png" alt="Icon">
                             <h3 class="mb-3">Yenileme</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <p class="mb-4">Mimarlık şirketimizde yenileme işlemleriyle mekânları canlandırıyoruz. Eski ve yıpranmış yapıları modern ve işlevsel alanlara dönüştürüyoruz. Yenileme sürecinde, orijinal özellikleri koruyarak çağdaş tasarımlar oluşturuyoruz.</p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
                     </div>
                 </div>
@@ -157,8 +157,11 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="Assets/img/icons/icon-10.png" alt="Icon">
                             <h3 class="mb-3">Yapı</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <p class="mb-4">
+                                <b>Mükemmeli İnşa Ediyoruz!</b>
+                                Mimarlık şirketimizde yapı işlemleriyle hayallerinizi gerçeğe dönüştürüyoruz. İnşa ettiğimiz yapılarla, estetik ve işlevselliği bir araya getiriyoruz. Her adımda titizlikle ilerleyerek, kaliteli malzemeler ve uzman ekiplerle yapılar oluşturuyoruz.
+                            </p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
                     </div>
                 </div>
@@ -169,8 +172,11 @@
                             <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
                             <i class="fas fa-couch mb-4" style="font-size: 64px; color: #C29E7C;"></i>
                             <h3 class="mb-3">Mobilya</h3>
-                            <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Read More</a>
+                            <p class="mb-4">
+                                <b>Mobilya Tutkusuyla Hayatınızı Yeniden Dizayn Edin!</b>
+                                Her detayı özenle işlediğimiz özgün mobilyalarımızla, yaşam alanlarınıza estetik bir dokunuş katıyoruz. İhtiyaçlarınızı karşılamak ve tarzınızı yansıtmak için özelleştirilebilir tasarımlar sunuyoruz.
+                            </p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3" style="margin-top: 23% !important;"></i>Devamı için</a>
                         </div>
                     </div>
                 </div>
@@ -270,7 +276,7 @@
                                     <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Devamı için</a>
                                 </div>
                             </div>
                         </div>
@@ -288,7 +294,7 @@
                                     <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Devamı için</a>
                                 </div>
                             </div>
                         </div>
@@ -306,7 +312,7 @@
                                     <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Devamı için</a>
                                 </div>
                             </div>
                         </div>
@@ -324,7 +330,7 @@
                                     <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Devamı için </a>
                                 </div>
                             </div>
                         </div>

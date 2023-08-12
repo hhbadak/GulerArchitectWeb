@@ -83,7 +83,6 @@
                     <a href="furniture.aspx" class="nav-item nav-link">Mobilyalar</a>
                     <a href="contact.aspx" class="nav-item nav-link">Bize Ulaşın</a>
                 </div>
-                <a href="#" class="btn btn-primary py-2 px-4 d-none d-lg-block">Appointment</a>
             </div>
         </nav>
         <!-- Navbar End -->
