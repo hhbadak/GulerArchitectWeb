@@ -57,3 +57,13 @@ C:\Users\HsnHs\source\repos\GulerArchitect\GulerArchitect\obj\Debug\GulerArchite
 C:\Users\HsnHs\source\repos\GulerArchitect\GulerArchitect\obj\Debug\GulerArchitect.csproj.CopyComplete
 C:\Users\HsnHs\source\repos\GulerArchitect\GulerArchitect\obj\Debug\GulerArchitect.dll
 C:\Users\HsnHs\source\repos\GulerArchitect\GulerArchitect\obj\Debug\GulerArchitect.pdb
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\bin\GulerArchitect.dll.config
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\bin\GulerArchitect.dll
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\bin\GulerArchitect.pdb
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\obj\Debug\GulerArchitect.csproj.AssemblyReference.cache
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\obj\Debug\GulerArchitect.csproj.CoreCompileInputs.cache
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\obj\Debug\GulerArchitect.csproj.CopyComplete
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\obj\Debug\GulerArchitect.dll
+C:\Users\Oktay Çalışkan\Documents\GitHub\GulerArchitectWeb\GulerArchitect\obj\Debug\GulerArchitect.pdb
