@@ -123,8 +123,8 @@
                         <img class="bg-img" src="Assets/img/service-3.jpg" alt="">
                         <div class="service-text p-5">
                             <img class="mb-4" src="Assets/img/icons/icon-7.png" alt="Icon">
-                            <h3 class="mb-3">Ev Planlaması</h3>
-                            <p class="mb-4">Evlerinizin hayalini bizimle kurun! Mimarlık şirketimiz, size özel ev planlaması hizmetleri sunarak, yaşam alanlarınızı mükemmelliğe taşıyor. Estetik, işlevsellik ve konforu bir arada sunan tasarımlarımızla, evinizi gerçek bir huzurlu konut haline getiriyoruz.</p>
+                            <h3 class="mb-3">Uygulama</h3>
+                            <p class="mb-4">Yaptığımız işlerde yılların verdiği verdiği tecrübe, teknik bilgimiz ve uzman ekibimizle sizi memnun etmek için heyecanla çalışıyoruz.</p>
                             <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
                     </div>
