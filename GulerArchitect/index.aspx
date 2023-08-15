@@ -124,7 +124,7 @@
                         <div class="service-text p-5">
                             <img class="mb-4" src="Assets/img/icons/icon-7.png" alt="Icon">
                             <h3 class="mb-3">Uygulama</h3>
-                            <p class="mb-4">Yaptığımız işlerde yılların verdiği verdiği tecrübe, teknik bilgimiz ve uzman ekibimizle sizi memnun etmek için heyecanla çalışıyoruz.</p>
+                            <p class="mb-4">Mimarlık ofisimizde nesilden aktarılan bilgi ve sahip olduğumuz teknik bilgi ile uygulama işini en iyi şekilde gerçekleştiriyoruz. Deneyimli bir ekip olarak, geçmişten gelen birikimimizi ve güncel teknik bilgileri bir araya getirerek tasarımlarımızı hayata geçiriyoruz. </p>
                             <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
                     </div>
@@ -193,8 +193,23 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h4 class="section-title">NEDEN BİZİ SEÇMELİSİNİZ!</h4>
                     <h1 class="display-5 mb-4">Neden Bize Güvenmelisiniz? Hakkımızda Daha Fazla Bilgi Edinin!</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                    <div class="row g-4">
+                    <p class="mb-4">
+                        Mimarlık ve iç mimarlık işleriniz için bize güvenmelisiniz çünkü müşterilerimizin memnuniyetini en üst düzeyde tutmak için kararlıyız. İşimizi tutkuyla yapıyor ve her projeye özel bir yaklaşım sergiliyoruz. İşte size güvenebileceğiniz bazı nedenler:
+                        <ul>
+                            <li><b>Deneyim ve Yetenek:</b> Uzun yıllara dayanan deneyimimizle sektörde önemli bir yer edindik. Mimarlık ve iç mimarlık projelerinde geniş bir yelpazede çalıştık ve çeşitli müşteri taleplerini başarıyla yerine getirdik. Yetenekli ve uzman bir ekibimiz var ve projenizin her aşamasında profesyonel bir hizmet sunmak için donanımlıyız.</li>
+                            <br />
+                            <li><b>Yaratıcı Çözümler:</b> Mimarlık ve iç mimarlıkta yaratıcılık önemlidir. Biz, özgün ve estetik açıdan etkileyici tasarımlar sunmak için yaratıcı çözümler üretiriz. Projenizin gereksinimlerini ve isteklerinizi anlayarak, işlevsellik ve görsel cazibeyi bir araya getiren tasarımlar oluştururuz.</li>
+                            <br />
+                            <li><b>İşbirliği ve İletişim:</b> Müşteri memnuniyeti odaklı çalışırız ve projenizde sizi sürecin her adımında dahil ederiz. İşbirliği ve iletişim, başarılı bir projenin temelidir. Sizinle yakın bir ilişki kurar, fikirlerinizi dinler ve beklentilerinizi anlamaya çalışırız. Size düzenli güncellemeler sağlar ve karar alma sürecinde aktif bir şekilde yer alırız.</li>
+                            <br />
+                            <li><b>Kalite ve Detaylara Önem Verme:</b> İşlerimizde kaliteye ve detaylara önem veririz. Her aşamada titizlikle çalışır, malzemelerin kalitesine dikkat eder ve işin tamamlanması için gerekli kontrolleri sağlarız. Projelerimizde estetik, işlevsellik ve dayanıklılığın mükemmel bir dengeye sahip olmasını hedefleriz.</li>
+                            <br />
+                            <li><b>Proje Yönetimi ve Zamanında Teslim:</b> Projeleri zamanında ve bütçe dahilinde tamamlamak için etkili proje yönetimi uygularız. İyi planlama ve kaynak yönetimi ile işleri takip eder, projenin süreç içinde ilerlemesini sağlarız. Söz verdiğimiz sürelerde işi tamamlamak için çaba sarf eder ve kalite standartlarından ödün vermeden zamanında teslimat yaparız.</li>
+                            <br />
+                        </ul>
+                        Bizimle çalışarak, mimarlık ve iç mimarlık projelerinizde güvenilir bir ortak bulacaksınız. Müşteri memnuniyetini en üst düzeyde tutmak için çaba sarf eder ve hayallerinizi gerçeğe dönüştürmek için çalışırız. Profesyonel yaklaşımımız, yaratıcı bakış açımız ve kalite odaklı çalışmalarımızla projenizin başarılı bir şekilde tamamlanmasını sağlamak için buradayız.
+                    </p>
+                    <%-- <div class="row g-4">
                         <div class="col-12">
                             <div class="d-flex align-items-start">
                                 <img class="flex-shrink-0" src="Assets/img/icons/icon-2.png" alt="Icon">
@@ -222,7 +237,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>--%>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="feature-img">
