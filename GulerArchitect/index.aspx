@@ -120,7 +120,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item d-flex position-relative text-center h-100">
-                        <img class="bg-img" src="Assets/img/serviss3.jpg" alt="">
+                        <img class="bg-img" src="Assets/img/Screenshot_20230814-133953.png" alt="">
                         <div class="service-text p-5">
                             <img class="mb-4" src="Assets/img/icons/icon-7.png" alt="Icon">
                             <h3 class="mb-3">Uygulama</h3>
