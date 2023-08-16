@@ -56,42 +56,41 @@
 
     <!-- Facts Start -->
     <div class="container-xxl py-5">
-        <div class="container pt-5">
+        <div class="container">
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="fact-item text-center bg-light h-100 p-5 pt-0">
-                        <div class="fact-icon">
+                    <div class="service-item d-flex position-relative text-center h-100">
+                        <img class="bg-img" src="Assets/img/render.jpg" alt="">
+                        <div class="service-text p-5">
                             <img src="Assets/img/icons/icon-2.png" alt="Icon">
+                            <h3 class="mb-3">TASARIM</h3>
+                            <p class="mb-4">Mimarlık ofisimiz, tasarım konusunda lider bir konumdadır. Yaratıcı ve özgün yaklaşımlarımızla projelerinizi en iyi şekilde hayata geçiriyoruz. Deneyimli ekibimizle birlikte çalışarak, benzersiz ve etkileyici tasarımlar sunuyoruz.</p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
-                        <h3 class="mb-3">Tasarım Yaklaşımı</h3>
-                        <p class="mb-0">
-                            <ul style="text-align: initial;">
-                                <li>İkonik Yöntem.</li>
-                                <li>Metafor Yöntemi.</li>
-                                <li>Analoji Yöntemi.</li>
-                                <li>Oransal Yöntem.</li>
-                                <li>Tüme Varım Yöntemi.</li>
-                                <li>Tümden Gelim Yöntemi.</li>
-                            </ul>
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="fact-item text-center bg-light h-100 p-5 pt-0">
-                        <div class="fact-icon">
-                            <img src="Assets/img/icons/icon-3.png" alt="Icon">
-                        </div>
-                        <h3 class="mb-3">Yenilikçi Çözümler</h3>
-                        <p class="mb-0">Bizim için tasarım bir katmanlandırma sürecidir.Bir çözümün ortaya çıkışı projeyi saran konuların anlaşılması ve bunlarla yakınlık kurulmasına dayanır.Dolayısıyla bir kişinin parmak izleri gibi her proje de eşsiz olabilir.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="fact-item text-center bg-light h-100 p-5 pt-0">
-                        <div class="fact-icon">
-                            <img src="Assets/img/icons/icon-4.png" alt="Icon">
+                    <div class="service-item d-flex position-relative text-center h-100">
+                        <img class="bg-img" src="Assets/img/proje.gif" alt="">
+                        <div class="service-text p-5">
+                            <img class="mb-4" src="Assets/img/icons/icon-7.png" alt="Icon">
+                            <h3 class="mb-3">PROJE</h3>
+                            <p class="mb-4">
+                                Mimarlık projeleri, yaratıcılığı, işlevselliği ve estetiği bir araya getiren heyecan verici süreçlerdir. Her proje benzersizdir ve müşterinin ihtiyaçlarına dayanır. Başarılı bir proje için iyi planlama, etkili iletişim, takım çalışması önemlidir.
+                            </p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
                         </div>
-                        <h3 class="mb-3">Proje Yönetimi</h3>
-                        <p class="mb-0">İnşaat projelerinin uygulanmasında gerekli olan ana prensiplerin irdelenmesi, uygulama esnasında ortaya çıkabilecek potansiyel problemler ve çözümleri hakkında örnek vaka analizi yapılarak öğrencilerin profesyonel iş hayatına atılmadan önce gerekli olan bilgi dağarcıklarının genişletilmesi.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item d-flex position-relative text-center h-100">
+                        <img class="bg-img" src="Assets/img/santiye.png" alt="">
+                        <div class="service-text p-5">
+                            <img class="mb-4" src="Assets/img/icons/şantiye.png" height="64" alt="Icon">
+                            <h3 class="mb-3">UYGULAMA</h3>
+                            <p class="mb-4">Mimarlık ofisimizde nesilden aktarılan bilgi ve sahip olduğumuz teknik bilgi ile uygulama işini en iyi şekilde gerçekleştiriyoruz. Deneyimli bir ekip olarak, geçmişten gelen birikimimizi ve güncel teknik bilgileri bir araya getirerek tasarımlarımızı hayata geçiriyoruz.</p>
+                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -122,7 +121,7 @@
                     <div class="service-item d-flex position-relative text-center h-100">
                         <img class="bg-img" src="Assets/img/Screenshot_20230814-133953.png" alt="">
                         <div class="service-text p-5">
-                            <img class="mb-4" src="Assets/img/icons/icon-7.png" alt="Icon">
+                            <img class="mb-4" src="Assets/img/icons/şantiye.png" height="64" alt="Icon">
                             <h3 class="mb-3">Uygulama</h3>
                             <p class="mb-4">Mimarlık ofisimizde nesilden aktarılan bilgi ve sahip olduğumuz teknik bilgi ile uygulama işini en iyi şekilde gerçekleştiriyoruz. Deneyimli bir ekip olarak, geçmişten gelen birikimimizi ve güncel teknik bilgileri bir araya getirerek tasarımlarımızı hayata geçiriyoruz. </p>
                             <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
@@ -358,7 +357,7 @@
 
 
     <!-- Team Start -->
-    <div class="container-xxl py-5">
+    <%--<div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h4 class="section-title">Team Members</h4>
@@ -431,7 +430,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>--%>
     <!-- Team End -->
 
 
@@ -514,32 +513,4 @@
     </div>
     <!-- Appointment End -->
 
-
-    <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Testimonial</h4>
-                <h1 class="display-5 mb-4">Thousands Of Customers Who Trust Us And Our Services</h1>
-            </div>
-            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
-                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='Assets/img/testimonial-1.jpg' alt=''>">
-                    <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
-                    <h3>Client Name</h3>
-                    <span class="text-primary">Profession</span>
-                </div>
-                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='Assets/img/testimonial-2.jpg' alt=''>">
-                    <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
-                    <h3>Client Name</h3>
-                    <span class="text-primary">Profession</span>
-                </div>
-                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='Assets/img/testimonial-3.jpg' alt=''>">
-                    <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
-                    <h3>Client Name</h3>
-                    <span class="text-primary">Profession</span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonial End -->
 </asp:Content>

@@ -86,10 +86,15 @@
     <Content Include="Assets\img\icons\icon-7.png" />
     <Content Include="Assets\img\icons\icon-8.png" />
     <Content Include="Assets\img\icons\icon-9.png" />
+    <Content Include="Assets\img\icons\şantiye.png" />
+    <Content Include="Assets\img\proje.gif" />
+    <Content Include="Assets\img\proje.jpg" />
     <Content Include="Assets\img\project-1.jpg" />
     <Content Include="Assets\img\project-2.jpg" />
     <Content Include="Assets\img\project-3.jpg" />
     <Content Include="Assets\img\project-4.jpg" />
+    <Content Include="Assets\img\render.jpg" />
+    <Content Include="Assets\img\santiye.png" />
     <Content Include="Assets\img\Screenshot_20230814-133953.png" />
     <Content Include="Assets\img\service-1.jpg" />
     <Content Include="Assets\img\service-2.jpg" />
