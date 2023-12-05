@@ -32,7 +32,7 @@
                             <img src="Assets/img/icons/icon-2.png" alt="Icon">
                             <h3 class="mb-3">TASARIM</h3>
                             <p class="mb-4">Mimarlık ofisimiz, tasarım konusunda lider bir konumdadır. Yaratıcı ve özgün yaklaşımlarımızla projelerinizi en iyi şekilde hayata geçiriyoruz. Deneyimli ekibimizle birlikte çalışarak, benzersiz ve etkileyici tasarımlar sunuyoruz.</p>
-                            <a class="btn" href="#"><i class="fa fa-plus text-primary me-3"></i>Devamı için</a>
+                            <a class="btn" href="#">Before After</a>
                         </div>
                     </div>
                 </div>

@@ -94,6 +94,7 @@
     <Content Include="Assets\img\project-3.jpg" />
     <Content Include="Assets\img\project-4.jpg" />
     <Content Include="Assets\img\render.jpg" />
+    <Content Include="Assets\img\Resim1.jpg" />
     <Content Include="Assets\img\santiye.png" />
     <Content Include="Assets\img\Screenshot_20230814-133953.png" />
     <Content Include="Assets\img\service-1.jpg" />
@@ -135,6 +136,7 @@
     <Content Include="Assets\lib\waypoints\waypoints.min.js" />
     <Content Include="Assets\lib\wow\wow.js" />
     <Content Include="Assets\lib\wow\wow.min.js" />
+    <Content Include="Assets\Team\SGuler.svg" />
     <Content Include="contact.aspx" />
     <Content Include="feature.aspx" />
     <Content Include="furniture.aspx" />
@@ -296,6 +298,7 @@
     </None>
     <Content Include="WebMaster.Master" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -45,7 +45,7 @@
             <div class="row gx-0 d-none d-lg-flex">
                 <div class="col-lg-7 px-5 text-start">
                     <div class="h-100 d-inline-flex align-items-center py-3 me-3">
-                        <a class="text-body px-2" href="tel:+0123456789"><i class="fa fa-phone-alt text-primary me-2"></i>+012 345 6789</a>
+                        <a class="text-body px-2" href="https://wa.me/+905538145595"><i class="fa fa-phone-alt text-primary me-2"></i></a>
                         <a class="text-body px-2" href="mailto:info@example.com"><i class="fa fa-envelope-open text-primary me-2"></i>info@example.com</a>
                     </div>
                 </div>
@@ -58,7 +58,8 @@
                         <a class="btn btn-sm-square btn-outline-body me-1" href="#"><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-sm-square btn-outline-body me-1" href="#"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-sm-square btn-outline-body me-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="btn btn-sm-square btn-outline-body me-0" href="#"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-sm-square btn-outline-body me-0" href="https://www.instagram.com/gulermobilyaicmimarlik?igshid=MTNiYzNiMzkwZA%3D%3D"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-sm-square btn-outline-body me-0" href="https://www.instagram.com/mimarlikguler?igshid=MTNiYzNiMzkwZA%3D%3D"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
