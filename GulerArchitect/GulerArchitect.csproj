@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="about.aspx" />
+    <Content Include="Assets\BeforeAfter\1before.jpeg" />
+    <Content Include="Assets\BeforeAfter\Başlıksız-1.png" />
     <Content Include="Assets\css\bootstrap.min.css" />
     <Content Include="Assets\css\style.css" />
     <Content Include="Assets\img\about-1.jpg" />

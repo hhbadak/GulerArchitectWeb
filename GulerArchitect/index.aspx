@@ -7,8 +7,8 @@
     <!-- Carousel Start -->
     <div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="owl-carousel header-carousel position-relative">
-            <div class="owl-carousel-item position-relative" data-dot="<img src='Assets/img/carousel-1.jpg'>">
-                <img class="img-fluid" src="Assets/img/carousel-1.jpg" alt="">
+            <div class="owl-carousel-item position-relative" data-dot="<img src='Assets/BeforeAfter/Başlıksız-1.png'>">
+                <img class="img-fluid" src="Assets/BeforeAfter/Başlıksız-1.png" alt="">
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
