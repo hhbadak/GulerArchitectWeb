@@ -7,12 +7,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h1 class="display-1 text-white animated slideInDown">About Us</h1>
+            <h1 class="display-1 text-white animated slideInDown">HAKKIMIZDA</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb text-uppercase mb-0">
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-primary active" aria-current="page">About</li>
+                    <li class="breadcrumb-item"><a class="text-white" href="index.aspx">Anasayfa</a></li>
+                    <li class="breadcrumb-item text-primary active" aria-current="page">Hakkımızda</li>
                 </ol>
             </nav>
         </div>
@@ -48,7 +47,7 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Team Members</h4>
+                <h4 class="section-title">Ekip</h4>
                 <h1 class="display-5 mb-4">Hayalinizdeki Ev İçin Yaratıcı Mimarlık Ekibiyiz</h1>
             </div>
             <div class="row g-0 team-items">

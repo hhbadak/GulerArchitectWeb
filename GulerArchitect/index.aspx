@@ -20,8 +20,8 @@
                     </div>
                 </div>
             </div>
-            <div class="owl-carousel-item position-relative" data-dot="<img src='Assets/img/carousel-2.jpg'>">
-                <img class="img-fluid" src="Assets/img/carousel-2.jpg" alt="">
+            <div class="owl-carousel-item position-relative" data-dot="<img src='Assets/BeforeAfter/ba1.jpg'>">
+                <img class="img-fluid" src="Assets/BeforeAfter/ba1.jpg" alt="">
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -33,15 +33,14 @@
                     </div>
                 </div>
             </div>
-            <div class="owl-carousel-item position-relative" data-dot="<img src='Assets/img/carousel-3.jpg'>">
-                <img class="img-fluid" src="Assets/img/carousel-3.jpg" alt="">
+            <div class="owl-carousel-item position-relative" data-dot="<img src='Assets/BeforeAfter/ba2.jpg'>">
+                <img class="img-fluid" src="Assets/BeforeAfter/ba2.jpg" alt="">
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-1 text-white animated slideInDown">Best Architecture And Interior Design Services</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Devamı için</a>
+                                <h1 class="display-1 text-white animated slideInDown">İŞİN ADI YAZILACAK</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Açıklama yapılacak</p>
                             </div>
                         </div>
                     </div>
@@ -194,13 +193,13 @@
                 <div class="col-lg-4">
                     <div class="nav nav-pills d-flex justify-content-between w-100 h-100 me-4">
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
-                            <h3 class="m-0">01. Özdemir Bey</h3>
+                            <h3 class="m-0">01. Türkoğlu Ofis Tasarımı</h3>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
-                            <h3 class="m-0">02. Lobi Tasarımı</h3>
+                            <h3 class="m-0">02. Mutfak ve Banyo Tasarımı</h3>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
-                            <h3 class="m-0">03. Sandallar Evi</h3>
+                            <h3 class="m-0">03. Lobi Tasarımı</h3>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
                             <h3 class="m-0">04. Tiryaki Evi</h3>
@@ -209,7 +208,23 @@
                 </div>
                 <div class="col-lg-8">
                     <div class="tab-content w-100">
-                        <div class="tab-pane fade show active" id="tab-pane-1">
+                         <div class="tab-pane fade show active" id="tab-pane-1">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px;">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/project5.jpg"
+                                            style="object-fit: cover;" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h1 class="mb-3">Türkoğlu Ofis Tasarımı</h1>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Ofis</p>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Mobilya</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="tab-pane-2">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
@@ -229,7 +244,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="tab-pane-2">
+                        <div class="tab-pane fade" id="tab-pane-3">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
@@ -244,7 +259,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="tab-pane-3">
+                       <%-- <div class="tab-pane fade" id="tab-pane-3">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
@@ -259,7 +274,7 @@
                                     <p><i class="fa fa-check text-primary me-3"></i>Yatak Odası</p>
                                 </div>
                             </div>
-                        </div>
+                        </div>--%>
                         <div class="tab-pane fade" id="tab-pane-4">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
@@ -277,7 +292,7 @@
                                     <p><i class="fa fa-check text-primary me-3"></i>Yatak Odası</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
                     </div>
                 </div>
             </div>
@@ -369,9 +384,9 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <h4 class="section-title">Appointment</h4>
-                    <h1 class="display-5 mb-4">Make An Appointment To Start Your Dream Project</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                    <h4 class="section-title">Randevu İçin</h4>
+                    <h1 class="display-5 mb-4">Stilinizi yansıtan dekorasyon çözümleri için bize ulaşın</h1>
+                    <p class="mb-4">İsterseniz aşağıda yer alan iletişim bilgilerimizden, isterseniz de form göndererek işlemi tamamlayabilirsiniz</p>
                     <div class="row g-4">
                         <div class="col-12">
                             <div class="d-flex">
@@ -379,8 +394,8 @@
                                     <i class="fa fa-2x fa-phone-alt text-primary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <p class="mb-2">Call Us Now</p>
-                                    <h3 class="mb-0">+012 345 6789</h3>
+                                    <p class="mb-2">Bize Ulaşın!</p>
+                                    <h3 class="mb-0"><a href="tel:+905538145595" style="color: black;">+90 553 814 55 95</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -390,8 +405,8 @@
                                     <i class="fa fa-2x fa-envelope-open text-primary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <p class="mb-2">Mail Us Now</p>
-                                    <h3 class="mb-0">info@example.com</h3>
+                                    <p class="mb-2">Mail Adresimiz</p>
+                                    <h3 class="mb-0"><a href="mailto:info@gulermimarlik.com" style="color: black;">info@gulermimarlik.com</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -400,41 +415,27 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="row g-3">
                         <div class="col-12 col-sm-6">
-                            <input type="text" class="form-control" placeholder="Your Name" style="height: 55px;">
+                            <input type="text" class="form-control" placeholder="Adınız" style="height: 55px;">
                         </div>
                         <div class="col-12 col-sm-6">
-                            <input type="email" class="form-control" placeholder="Your Email" style="height: 55px;">
+                            <input type="email" class="form-control" placeholder="Mail Adresiniz" style="height: 55px;">
                         </div>
                         <div class="col-12 col-sm-6">
-                            <input type="text" class="form-control" placeholder="Your Mobile" style="height: 55px;">
+                            <input type="text" class="form-control" placeholder="İletişime Numaranız" style="height: 55px;">
                         </div>
                         <div class="col-12 col-sm-6">
                             <select class="form-select" style="height: 55px;">
-                                <option selected>Choose Service</option>
-                                <option value="1">Service 1</option>
-                                <option value="2">Service 2</option>
-                                <option value="3">Service 3</option>
+                                <option selected>Hizmet Seçiniz!</option>
+                                <option value="1">Mimarlık</option>
+                                <option value="2">Mobilya</option>
                             </select>
                         </div>
-                        <div class="col-12 col-sm-6">
-                            <div class="date" id="date" data-target-input="nearest">
-                                <input type="text"
-                                    class="form-control datetimepicker-input"
-                                    placeholder="Choose Date" data-target="#date" data-toggle="datetimepicker" style="height: 55px;">
-                            </div>
-                        </div>
-                        <div class="col-12 col-sm-6">
-                            <div class="time" id="time" data-target-input="nearest">
-                                <input type="text"
-                                    class="form-control datetimepicker-input"
-                                    placeholder="Choose Date" data-target="#time" data-toggle="datetimepicker" style="height: 55px;">
-                            </div>
+
+                        <div class="col-12">
+                            <textarea class="form-control" rows="5" placeholder="Mesaj"></textarea>
                         </div>
                         <div class="col-12">
-                            <textarea class="form-control" rows="5" placeholder="Message"></textarea>
-                        </div>
-                        <div class="col-12">
-                            <button class="btn btn-primary w-100 py-3" type="submit">Book Appointment</button>
+                            <button class="btn btn-primary w-100 py-3" type="submit">Gönder</button>
                         </div>
                     </div>
                 </div>
