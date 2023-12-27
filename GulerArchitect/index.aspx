@@ -7,15 +7,14 @@
     <!-- Carousel Start -->
     <div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="owl-carousel header-carousel position-relative">
-            <div class="owl-carousel-item position-relative" data-dot="<img src='Assets/BeforeAfter/Başlıksız-1.png'>">
-                <img class="img-fluid" src="Assets/BeforeAfter/Başlıksız-1.png" alt="">
+            <div class="owl-carousel-item position-relative" data-dot="<img src='Assets/BeforeAfter/ba.jpg'>">
+                <img class="img-fluid" src="Assets/BeforeAfter/ba.jpg" alt="">
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-1 text-white animated slideInDown">Best Architecture And Interior Design Services</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Devamı için</a>
+                                <h1 class="display-1 text-white animated slideInDown">İŞİN ADI YAZILACAK</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Açıklama yapılacak</p>
                             </div>
                         </div>
                     </div>
@@ -27,9 +26,8 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-1 text-white animated slideInDown">Best Architecture And Interior Design Services</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="#" class="btn btn-primary py-3 px-5 animated slideInLeft">Devamı için</a>
+                                <h1 class="display-1 text-white animated slideInDown">İŞİN ADI YAZILACAK</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Açıklama yapılacak</p>
                             </div>
                         </div>
                     </div>
@@ -184,94 +182,28 @@
     </div>
     <!-- Service End -->
 
-
-    <!-- Feature Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <h4 class="section-title">NEDEN BİZİ SEÇMELİSİNİZ!</h4>
-                    <h1 class="display-5 mb-4">Neden Bize Güvenmelisiniz? Hakkımızda Daha Fazla Bilgi Edinin!</h1>
-                    <p class="mb-4">
-                        Mimarlık ve iç mimarlık işleriniz için bize güvenmelisiniz çünkü müşterilerimizin memnuniyetini en üst düzeyde tutmak için kararlıyız. İşimizi tutkuyla yapıyor ve her projeye özel bir yaklaşım sergiliyoruz. İşte size güvenebileceğiniz bazı nedenler:
-                        <ul>
-                            <li><b>Deneyim ve Yetenek:</b> Uzun yıllara dayanan deneyimimizle sektörde önemli bir yer edindik. Mimarlık ve iç mimarlık projelerinde geniş bir yelpazede çalıştık ve çeşitli müşteri taleplerini başarıyla yerine getirdik. Yetenekli ve uzman bir ekibimiz var ve projenizin her aşamasında profesyonel bir hizmet sunmak için donanımlıyız.</li>
-                            <br />
-                            <li><b>Yaratıcı Çözümler:</b> Mimarlık ve iç mimarlıkta yaratıcılık önemlidir. Biz, özgün ve estetik açıdan etkileyici tasarımlar sunmak için yaratıcı çözümler üretiriz. Projenizin gereksinimlerini ve isteklerinizi anlayarak, işlevsellik ve görsel cazibeyi bir araya getiren tasarımlar oluştururuz.</li>
-                            <br />
-                            <li><b>İşbirliği ve İletişim:</b> Müşteri memnuniyeti odaklı çalışırız ve projenizde sizi sürecin her adımında dahil ederiz. İşbirliği ve iletişim, başarılı bir projenin temelidir. Sizinle yakın bir ilişki kurar, fikirlerinizi dinler ve beklentilerinizi anlamaya çalışırız. Size düzenli güncellemeler sağlar ve karar alma sürecinde aktif bir şekilde yer alırız.</li>
-                            <br />
-                            <li><b>Kalite ve Detaylara Önem Verme:</b> İşlerimizde kaliteye ve detaylara önem veririz. Her aşamada titizlikle çalışır, malzemelerin kalitesine dikkat eder ve işin tamamlanması için gerekli kontrolleri sağlarız. Projelerimizde estetik, işlevsellik ve dayanıklılığın mükemmel bir dengeye sahip olmasını hedefleriz.</li>
-                            <br />
-                            <li><b>Proje Yönetimi ve Zamanında Teslim:</b> Projeleri zamanında ve bütçe dahilinde tamamlamak için etkili proje yönetimi uygularız. İyi planlama ve kaynak yönetimi ile işleri takip eder, projenin süreç içinde ilerlemesini sağlarız. Söz verdiğimiz sürelerde işi tamamlamak için çaba sarf eder ve kalite standartlarından ödün vermeden zamanında teslimat yaparız.</li>
-                            <br />
-                        </ul>
-                        Bizimle çalışarak, mimarlık ve iç mimarlık projelerinizde güvenilir bir ortak bulacaksınız. Müşteri memnuniyetini en üst düzeyde tutmak için çaba sarf eder ve hayallerinizi gerçeğe dönüştürmek için çalışırız. Profesyonel yaklaşımımız, yaratıcı bakış açımız ve kalite odaklı çalışmalarımızla projenizin başarılı bir şekilde tamamlanmasını sağlamak için buradayız.
-                    </p>
-                    <%-- <div class="row g-4">
-                        <div class="col-12">
-                            <div class="d-flex align-items-start">
-                                <img class="flex-shrink-0" src="Assets/img/icons/icon-2.png" alt="Icon">
-                                <div class="ms-4">
-                                    <h3>Design Approach</h3>
-                                    <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="d-flex align-items-start">
-                                <img class="flex-shrink-0" src="Assets/img/icons/icon-3.png" alt="Icon">
-                                <div class="ms-4">
-                                    <h3>Innovative Solutions</h3>
-                                    <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="d-flex align-items-start">
-                                <img class="flex-shrink-0" src="Assets/img/icons/icon-4.png" alt="Icon">
-                                <div class="ms-4">
-                                    <h3>Project Management</h3>
-                                    <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>--%>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="feature-img">
-                        <img class="img-fluid" src="Assets/img/about-2.jpg" alt="">
-                        <img class="img-fluid" src="Assets/img/about-1.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Feature End -->
-
-
     <!-- Project Start -->
     <div class="container-xxl project py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h4 class="section-title">Projelerimiz</h4>
-                <h1 class="display-5 mb-4">What is Lorem Ipsum?
+                <h1 class="display-5 mb-4">Siz Nasıl Tasarım İstersiniz?
                 </h1>
             </div>
             <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="col-lg-4">
                     <div class="nav nav-pills d-flex justify-content-between w-100 h-100 me-4">
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
-                            <h3 class="m-0">01. DSI Akpazar</h3>
+                            <h3 class="m-0">01. Özdemir Bey</h3>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
-                            <h3 class="m-0">02. DSI Darende</h3>
+                            <h3 class="m-0">02. Lobi Tasarımı</h3>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
-                            <h3 class="m-0">03. DSI Isparta</h3>
+                            <h3 class="m-0">03. Sandallar Evi</h3>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
-                            <h3 class="m-0">04. İSKİ Kazandere</h3>
+                            <h3 class="m-0">04. Tiryaki Evi</h3>
                         </button>
                     </div>
                 </div>
@@ -281,24 +213,19 @@
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/Resim1.jpg"
+                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/project1.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <h1 class="mb-3">Lorem Ipsum
+                                    <h1 class="mb-3">Mutfak ve Banyo Tasarımı
                                     </h1>
-                                    <p class="mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                                     <p>
-                                        <i class="fa fa-check text-primary me-3"></i>Lorem Ipsum
+                                        <i class="fa fa-check text-primary me-3"></i>Mutfak
                                     </p>
                                     <p>
-                                        <i class="fa fa-check text-primary me-3"></i>Lorem Ipsum
+                                        <i class="fa fa-check text-primary me-3"></i>Banyo
                                     </p>
-                                    <p>
-                                        <i class="fa fa-check text-primary me-3"></i>Lorem Ipsum
-                                    </p>
-                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Devamı için</a>
                                 </div>
                             </div>
                         </div>
@@ -306,17 +233,14 @@
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/project-2.jpg"
+                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/project2.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <h1 class="mb-3">25 Years Of Experience In Architecture Industry</h1>
+                                    <h1 class="mb-3">Lobi Tasarımı</h1>
                                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Devamı için</a>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Lobi</p>
                                 </div>
                             </div>
                         </div>
@@ -324,17 +248,15 @@
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/project-3.jpg"
+                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/project3.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <h1 class="mb-3">25 Years Of Experience In Architecture Industry</h1>
+                                    <h1 class="mb-3">Sandallar Evi</h1>
                                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Devamı için</a>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Salon</p>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Yatak Odası</p>
                                 </div>
                             </div>
                         </div>
@@ -342,17 +264,17 @@
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/project-4.jpg"
+                                        <img class="position-absolute img-fluid w-100 h-100" src="Assets/img/project4.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <h1 class="mb-3">25 Years Of Experience In Architecture Industry</h1>
+                                    <h1 class="mb-3">Tiryaki Evi</h1>
                                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                    <a href="#" class="btn btn-primary py-3 px-5 mt-3">Devamı için </a>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Banyo</p>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Giyinme Odası</p>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Salon</p>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Yatak Odası</p>
                                 </div>
                             </div>
                         </div>
