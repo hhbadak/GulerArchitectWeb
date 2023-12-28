@@ -22,7 +22,6 @@
     <link href="Assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="Assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
-
     <!-- Customized Bootstrap Stylesheet -->
     <link href="Assets/css/bootstrap.min.css" rel="stylesheet">
 
@@ -30,6 +29,7 @@
     <link href="Assets/css/style.css" rel="stylesheet">
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+
 </head>
 <body>
     <form id="form1" runat="server">
@@ -161,6 +161,7 @@
 
         <!-- Template Javascript -->
         <script src="Assets/js/main.js"></script>
+
     </form>
 </body>
 </html>
