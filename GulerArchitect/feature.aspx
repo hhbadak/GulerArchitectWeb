@@ -19,7 +19,7 @@
     </div>
     <!-- Page Header End -->
 
- <!-- Feature Start -->
+ <%--<!-- Feature Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
@@ -41,7 +41,7 @@
                             <br />
                         </ul>
                         Bizimle çalışarak, mimarlık ve iç mimarlık projelerinizde güvenilir bir ortak bulacaksınız. Müşteri memnuniyetini en üst düzeyde tutmak için çaba sarf eder ve hayallerinizi gerçeğe dönüştürmek için çalışırız. Profesyonel yaklaşımımız, yaratıcı bakış açımız ve kalite odaklı çalışmalarımızla projenizin başarılı bir şekilde tamamlanmasını sağlamak için buradayız.
-                    </p>
+                    </p>--%>
                     <%-- <div class="row g-4">
                         <div class="col-12">
                             <div class="d-flex align-items-start">
@@ -71,7 +71,7 @@
                             </div>
                         </div>
                     </div>--%>
-                </div>
+             <%--   </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="feature-img">
                         <img class="img-fluid" src="Assets/img/about-2.jpg" alt="">
@@ -80,7 +80,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>--%>
     <!-- Feature End -->
 
 

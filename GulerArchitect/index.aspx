@@ -13,8 +13,8 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-1 text-white animated slideInDown">İŞİN ADI YAZILACAK</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Açıklama yapılacak</p>
+                                <h1 class="display-1 text-white animated slideInDown">Feridun Bey Evi</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Müşterimize Mimarlığın ve tasarımın ne kadar önemli olduğunu kanıtladığımız bu projemizde eski bir yapı olarak almış olduğu bu evi istekleri doğrultusunda nasıl modernize ettiğimizi sizlere de göstermek isteriz en güzel mekanlarda yaşamak hayal değil, bize ulaşın.</p>
                             </div>
                         </div>
                     </div>
@@ -26,8 +26,8 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-1 text-white animated slideInDown">İŞİN ADI YAZILACAK</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Açıklama yapılacak</p>
+                                <h1 class="display-1 text-white animated slideInDown">Feridun Bey Evi</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">İnternette gördüğü evlerin hayal olduğunu söyleyen bir müşterimiz için eski olarak satın aldıkları bu evin nasıl hayallerin bile ötesine geçtiğini sizlere de göstermek istedik, en iyi tasarımlar ve çözümler için bize ulaşın.</p>
                             </div>
                         </div>
                     </div>
@@ -39,8 +39,9 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-1 text-white animated slideInDown">İŞİN ADI YAZILACAK</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Açıklama yapılacak</p>
+                                <h1 class="display-1 text-white animated slideInDown">Feridun Bey Evi</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Feridun Bey yatırım olarak almış olduğu bu evde yaşama kararı aldıktan sonra bize ulaştı, daha modern bir ev istediğini söyleyen müşterimiz için 3 adet alternatif ürettik ve beğendiği alternatif doğrultusunda uygulamamıza devam ediyoruz, 
+sizin için en iyisini yapana kadar durmayacağız, yalnız size özel tasarımlar için bize ulaşın.</p>
                             </div>
                         </div>
                     </div>
@@ -218,13 +219,13 @@
                                 </div>
                                 <div class="col-md-6">
                                     <h1 class="mb-3">Türkoğlu Ofis Tasarımı</h1>
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                    <p class="mb-4">Toprak tonlarının mekanın içerisinde oluşturmuş olduğu sıcaklık algısı hedef alınarak keyifli ve ferah bir yaşam alanı tasarladık.</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Ofis</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Mobilya</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="tab-pane-2">
+                       <%-- <div class="tab-pane fade" id="tab-pane-2">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
@@ -243,8 +244,8 @@
                                     </p>
                                 </div>
                             </div>
-                        </div>
-                        <div class="tab-pane fade" id="tab-pane-3">
+                        </div>--%>
+                        <div class="tab-pane fade" id="tab-pane-2">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
@@ -254,12 +255,12 @@
                                 </div>
                                 <div class="col-md-6">
                                     <h1 class="mb-3">Lobi Tasarımı</h1>
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                    <p class="mb-4">Bu iş merkezi lobisini tasarlarken zeminden duvara tasarımda süreklilik ilkesini düşünerek tüm mekan içerisinde algıyı bir bütün olarak tutmak istedik ve tabiatın insanı rahatlattığını bildiğimiz için tasarımımız da yüksek oranda doğadan ilham aldık</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Lobi</p>
                                 </div>
                             </div>
                         </div>
-                       <%-- <div class="tab-pane fade" id="tab-pane-3">
+                        <div class="tab-pane fade" id="tab-pane-3">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
@@ -269,12 +270,12 @@
                                 </div>
                                 <div class="col-md-6">
                                     <h1 class="mb-3">Sandallar Evi</h1>
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                    <p class="mb-4">Saygın bir üniversitemizin rektörü olarak görev yapan müşterimizin bu evini tasarlarken öncelikle isteklerini göz önünde bulundurduk, salon olarak kullanmak istediği bu mekanda aynı zamanda ailecek akşam yemeklerini de yemek istediğini söyledi ancak bu mekan içerisinde öyle bir algı oluşturmalıydık ki tek mekanda iki mekan hissini yaşatmalıydık, biz de bunu renkler tonlamalar ve aydınlatmalar ile başardık</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Salon</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Yatak Odası</p>
                                 </div>
                             </div>
-                        </div>--%>
+                        </div>
                         <div class="tab-pane fade" id="tab-pane-4">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
@@ -285,10 +286,10 @@
                                 </div>
                                 <div class="col-md-6">
                                     <h1 class="mb-3">Tiryaki Evi</h1>
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                    <p class="mb-4">Saygın bir üniversitemizin rektörü olarak görev yapan müşterimizin bu evini tasarlarken öncelikle isteklerini göz önünde bulundurduk, salon olarak kullanmak istediği bu mekanda aynı zamanda ailecek akşam yemeklerini de yemek istediğini söyledi ancak bu mekan içerisinde öyle bir algı oluşturmalıydık ki tek mekanda iki mekan hissini yaşatmalıydık, biz de bunu renkler tonlamalar ve aydınlatmalar ile başardık</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Banyo</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Giyinme Odası</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Salon</p>
+                                    <p><i class="fa fa-check text-primary me-3"></i>Mutfak</p>
                                     <p><i class="fa fa-check text-primary me-3"></i>Yatak Odası</p>
                                 </div>
                             </div>
