@@ -4,174 +4,164 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    
-<div id="banner-area" class="banner-area" style="background-image:url(images/banner/banner1.jpg)">
-  <div class="banner-text">
-    <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-              <div class="banner-heading">
-                <h1 class="banner-title">Project</h1>
-                <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb justify-content-center">
-                      <li class="breadcrumb-item"><a href="#">Home</a></li>
-                      <li class="breadcrumb-item"><a href="#">Project</a></li>
-                      <li class="breadcrumb-item active" aria-current="page">All Projects</li>
-                    </ol>
-                </nav>
-              </div>
-          </div><!-- Col end -->
-        </div><!-- Row end -->
-    </div><!-- Container end -->
-  </div><!-- Banner text end -->
-</div><!-- Banner area end --> 
 
-<section id="main-container" class="main-container">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="shuffle-btn-group">
-          <label class="active" for="all">
-            <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Show All
-          </label>
-          <label for="commercial">
-            <input type="radio" name="shuffle-filter" id="commercial" value="commercial">Commercial
-          </label>
-          <label for="education">
-            <input type="radio" name="shuffle-filter" id="education" value="education">Education
-          </label>
-          <label for="government">
-            <input type="radio" name="shuffle-filter" id="government" value="government">Government
-          </label>
-          <label for="infrastructure">
-            <input type="radio" name="shuffle-filter" id="infrastructure" value="infrastructure">Infrastructure
-          </label>
-          <label for="residential">
-            <input type="radio" name="shuffle-filter" id="residential" value="residential">Residential
-          </label>
-          <label for="healthcare">
-            <input type="radio" name="shuffle-filter" id="healthcare" value="healthcare">Healthcare
-          </label>
-        </div><!-- project filter end -->
-
-
-        <div class="row shuffle-wrapper">
-          <div class="col-1 shuffle-sizer"></div>
-
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
-            <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project1.jpg">
-                <img class="img-fluid" src="images/projects/project1.jpg" alt="project-image">
-                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
-              </a>
-              <div class="project-item-info">
-                <div class="project-item-info-content">
-                  <h3 class="project-item-title">
-                    <a href="projects-single.html">Capital Teltway Building</a>
-                  </h3>
-                  <p class="project-cat">Commercial, Interiors</p>
+    <div id="banner-area" class="banner-area" style="background-image: url(images/banner/banner1.jpg)">
+        <div class="banner-text">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="banner-heading">
+                            <h1 class="banner-title">Projelerimiz</h1>
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb justify-content-center">
+                                    <li class="breadcrumb-item"><a href="index.aspx">Anasayfa</a></li>
+                                    <li class="breadcrumb-item"><a href="project.aspx">Projeler</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">Son Projelerimiz</li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                    <!-- Col end -->
                 </div>
-              </div>
+                <!-- Row end -->
             </div>
-          </div><!-- shuffle item 1 end -->
-
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;healthcare&quot;]">
-            <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project2.jpg">
-                <img class="img-fluid" src="images/projects/project2.jpg" alt="project-image">
-                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
-              </a>
-              <div class="project-item-info">
-                <div class="project-item-info-content">
-                  <h3 class="project-item-title">
-                    <a href="projects-single.html">Ghum Touch Hospital</a>
-                  </h3>
-                  <p class="project-cat">Healthcare</p>
-                </div>
-              </div>
-            </div>
-          </div><!-- shuffle item 2 end -->
-
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
-            <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="images/projects/project3.jpg" alt="project-image">
-                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
-              </a>
-              <div class="project-item-info">
-                <div class="project-item-info-content">
-                  <h3 class="project-item-title">
-                    <a href="projects-single.html">TNT East Facility</a>
-                  </h3>
-                  <p class="project-cat">Government</p>
-                </div>
-              </div>
-            </div>
-          </div><!-- shuffle item 3 end -->
-
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
-            <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project4.jpg">
-                <img class="img-fluid" src="images/projects/project4.jpg" alt="project-image">
-                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
-              </a>
-              <div class="project-item-info">
-                <div class="project-item-info-content">
-                  <h3 class="project-item-title">
-                    <a href="projects-single.html">Narriot Headquarters</a>
-                  </h3>
-                  <p class="project-cat">Infrastructure</p>
-                </div>
-              </div>
-            </div>
-          </div><!-- shuffle item 4 end -->
-
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
-            <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project5.jpg">
-                <img class="img-fluid" src="images/projects/project5.jpg" alt="project-image">
-                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
-              </a>
-              <div class="project-item-info">
-                <div class="project-item-info-content">
-                  <h3 class="project-item-title">
-                    <a href="projects-single.html">Kalas Metrorail</a>
-                  </h3>
-                  <p class="project-cat">Infrastructure</p>
-                </div>
-              </div>
-            </div>
-          </div><!-- shuffle item 5 end -->
-
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
-            <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project6.jpg">
-                <img class="img-fluid" src="images/projects/project6.jpg" alt="project-image">
-                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
-              </a>
-              <div class="project-item-info">
-                <div class="project-item-info-content">
-                  <h3 class="project-item-title">
-                    <a href="projects-single.html">Ancraft Avenue House</a>
-                  </h3>
-                  <p class="project-cat">Residential</p>
-                </div>
-              </div>
-            </div>
-          </div><!-- shuffle item 6 end -->
-        </div><!-- shuffle end -->
-      </div>
-
-      <div class="col-12">
-        <div class="general-btn text-center">
-          <a class="btn btn-primary" href="projects.html">View All Projects</a>
+            <!-- Container end -->
         </div>
-      </div>
+        <!-- Banner text end -->
+    </div>
+    <!-- Banner area end -->
 
-    </div><!-- Content row end -->
+    <section id="project-area" class="project-area solid-bg">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-12">
+                    <h2 class="section-title">Mükemmellik Çalışması</h2>
+                    <h3 class="section-sub-title">Son Projeler</h3>
+                </div>
+            </div>
+            <!--/ Title row end -->
 
-  </div><!-- Conatiner end -->
-</section><!-- Main container end -->
+            <div class="row">
+                <div class="col-12">
+                    <div class="shuffle-btn-group">
+                        <label class="active" for="all">
+                            <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Hepsi
+                        </label>
+                        <label for="loby">
+                            <input type="radio" name="shuffle-filter" id="loby" value="loby">Lobi Tasarımı
+                        </label>
+                        <label for="home">
+                            <input type="radio" name="shuffle-filter" id="home" value="home">Ev Tasarımı
+                        </label>
+                    </div>
+                    <!-- project filter end -->
+
+
+                    <div class="row shuffle-wrapper">
+                        <div class="col-1 shuffle-sizer"></div>
+
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;loby&quot;]">
+                            <div class="project-img-container">
+                                <a class="gallery-popup" href="images/projects/lobi1.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/lobi1.jpg" alt="project-img">
+                                    <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+                                </a>
+                                <a class="gallery-popup" href="images/projects/lobi2.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/lobi3.jpg" aria-label="project-img"></a>
+                                <div class="project-item-info">
+                                    <div class="project-item-info-content">
+                                        <h3 class="project-item-title">
+                                            <a href="projects-single.html">İş Merkezi Lobi Tasarımı</a>
+                                        </h3>
+                                        <p class="project-cat">Lobi Tasarımı</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- shuffle item 1 end -->
+
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;home&quot;]">
+                            <div class="project-img-container">
+                                <a class="gallery-popup" href="images/projects/ev1.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/ev1.jpg" alt="project-img">
+                                    <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+                                </a>
+                                <a class="gallery-popup" href="images/projects/ev2.jpg" aria-label="project-img"></a>
+                                <div class="project-item-info">
+                                    <div class="project-item-info-content">
+                                        <h3 class="project-item-title">
+                                            <a href="projects-single.html">Özdemir Bey Evi</a>
+                                        </h3>
+                                        <p class="project-cat">Ev Tasarımı</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- shuffle item 2 end -->
+
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;home&quot;]">
+                            <div class="project-img-container">
+                                <a class="gallery-popup" href="images/projects/ev3.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/ev3.jpg" alt="project-img">
+                                    <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+                                </a>
+                                <a class="gallery-popup" href="images/projects/ev4.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev5.jpg" aria-label="project-img"></a>
+                                <div class="project-item-info">
+                                    <div class="project-item-info-content">
+                                        <h3 class="project-item-title">
+                                            <a href="projects-single.html">Sandallar Evi</a>
+                                        </h3>
+                                        <p class="project-cat">Ev Tasarımı</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- shuffle item 3 end -->
+
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;home&quot;]">
+                            <div class="project-img-container">
+                                <a class="gallery-popup" href="images/projects/ev6.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/ev6.jpg" alt="project-img">
+                                    <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+                                </a>
+                                <a class="gallery-popup" href="images/projects/ev7.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev8.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev9.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev10.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev11.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev12.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev13.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev14.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev15.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev16.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev17.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev18.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev19.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/ev20.jpg" aria-label="project-img"></a>
+
+                                <div class="project-item-info">
+                                    <div class="project-item-info-content">
+                                        <h3 class="project-item-title">
+                                            <a href="projects-single.html">Tiryaki Evi</a>
+                                        </h3>
+                                        <p class="project-cat">Ev Tasarımı</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- shuffle item 4 end -->
+
+                    </div>
+                    <!-- shuffle end -->
+                </div>
+
+            </div>
+            <!-- Content row end -->
+        </div>
+        <!--/ Container end -->
+    </section>
+    <!-- Project area end -->
 
 
 </asp:Content>

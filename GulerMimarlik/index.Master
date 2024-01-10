@@ -77,8 +77,8 @@
                         <div class="logo-area">
                             <div class="row align-items-center">
                                 <div class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0">
-                                    <a class="d-block" href="index.html">
-                                        <img loading="lazy" src="images/LogoG.png" alt="Constra">
+                                    <a class="d-block" href="index.aspx">
+                                        <img loading="lazy" src="images/LogoG.png" alt="Güler-mimarlık ve mobilya">
                                     </a>
                                 </div>
                                 <!-- logo end -->
@@ -102,7 +102,7 @@
                                             </div>
                                         </li>
                                         <li class="header-get-a-quote">
-                                            <a class="btn btn-primary" href="contact.html">Mobilya!</a>
+                                            <a class="btn btn-primary" href="furniture.aspx">Mobilya!</a>
                                         </li>
                                     </ul>
                                     <!-- Ul end -->
@@ -128,23 +128,19 @@
 
                                     <div id="navbar-collapse" class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav mr-auto">
-                                            <li class="nav-item dropdown active">
-                                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Anasayfa</a>
-                                            </li>
-                                            <li class="nav-item dropdown">
-                                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Hakkımızda</a>
-                                            </li>
+                                            <li class="nav-item active"><a class="nav-link" href="index.aspx">Anasayfa</a></li>
+                                            <li class="nav-item"><a class="nav-link" href="about.aspx">Hakkımızda</a></li>
 
                                             <li class="nav-item dropdown">
                                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Hizmetler <i class="fa fa-angle-down"></i></a>
                                                 <ul class="dropdown-menu" role="menu">
-                                                    <li><a href="about.html">Hizmetler</a></li>
-                                                    <li><a href="team.html">Projeler</a></li>
-                                                    <li><a href="testimonials.html">Mobilyalar</a></li>
+                                                    <li><a href="service.aspx">Hizmetler</a></li>
+                                                    <li><a href="project.aspx">Projeler</a></li>
+                                                    <li><a href="furniture.aspx">Mobilyalar</a></li>
                                                 </ul>
                                             </li>
 
-<%--                                            <li class="nav-item dropdown">
+                                            <%--                                            <li class="nav-item dropdown">
                                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Projects <i class="fa fa-angle-down"></i></a>
                                                 <ul class="dropdown-menu" role="menu">
                                                     <li><a href="projects.html">Projects All</a></li>
@@ -185,7 +181,7 @@
                                                 </ul>
                                             </li>--%>
 
-                                            <li class="nav-item"><a class="nav-link" href="contact.html">Bize Ulaşın</a></li>
+                                            <li class="nav-item"><a class="nav-link" href="contact.aspx">Bize Ulaşın</a></li>
                                         </ul>
                                     </div>
                                 </nav>
