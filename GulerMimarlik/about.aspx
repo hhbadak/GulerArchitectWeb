@@ -3,8 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
-    <div id="banner-area" class="banner-area" style="background-image: url(images/banner/banner1.jpg)">
+    <div id="banner-area" class="banner-area" style="background-image: url(images/banner/about.png)">
         <div class="banner-text">
             <div class="container">
                 <div class="row">
@@ -55,7 +54,7 @@
                             <div class="container">
                                 <div class="box-slider-content">
                                     <div class="box-slider-text">
-                                        <h2 class="box-slide-title">Leadership</h2>
+                                        <h2 class="box-slide-title">Liderlik</h2>
                                     </div>
                                 </div>
                             </div>
@@ -66,7 +65,7 @@
                             <div class="container">
                                 <div class="box-slider-content">
                                     <div class="box-slider-text">
-                                        <h2 class="box-slide-title">Relationships</h2>
+                                        <h2 class="box-slide-title">Müşteri Memnuniyeti</h2>
                                     </div>
                                 </div>
                             </div>
@@ -77,7 +76,7 @@
                             <div class="container">
                                 <div class="box-slider-content">
                                     <div class="box-slider-text">
-                                        <h2 class="box-slide-title">Performance</h2>
+                                        <h2 class="box-slide-title">Kaliteli Yapılar</h2>
                                     </div>
                                 </div>
                             </div>

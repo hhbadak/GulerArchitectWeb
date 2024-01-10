@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    <div id="banner-area" class="banner-area" style="background-image: url(images/banner/banner1.jpg)">
+    <div id="banner-area" class="banner-area" style="background-image: url(images/banner/service.jpg)">
         <div class="banner-text">
             <div class="container">
                 <div class="row">
