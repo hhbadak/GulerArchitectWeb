@@ -51,7 +51,7 @@
                             <input type="radio" name="shuffle-filter" id="loby" value="loby">Lobi Tasarımı
                         </label>
                         <label for="home">
-                            <input type="radio" name="shuffle-filter" id="home" value="home">Ev Tasarımı
+                            <input type="radio" name="shuffle-filter" id="home" value="home">Konut Tasarımı
                         </label>
                         <label for="office">
                             <input type="radio" name="shuffle-filter" id="office" value="office">Ofis Tasarımı

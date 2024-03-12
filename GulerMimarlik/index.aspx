@@ -66,7 +66,7 @@
             <!--/ Title row end -->
 
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-3 mt-5 mt-lg-0 mb-4 mb-lg-0">
                     <div class="ts-service-box d-flex">
                         <div class="ts-service-box-img">
                             <img loading="lazy" src="images/icon-image/service-icon1.png" alt="service-icon">
@@ -76,8 +76,10 @@
                             <p>Özgün ve işlevsel tasarımlarımızla hayallerinizi gerçeğe dönüştürüyoruz. Mekânlarınızı ihtiyaçlarınıza uygun şekilde yaratmak için buradayız. Memnuniyetiniz için heyecanla çalışıyoruz.</p>
                         </div>
                     </div>
-                    <!-- Service 1 end -->
+                </div>
+                <!-- Service 1 end -->
 
+                <div class="col-lg-3 mt-5 mt-lg-0 mb-4 mb-lg-0">
                     <div class="ts-service-box d-flex">
                         <div class="ts-service-box-img">
                             <img loading="lazy" src="images/icon-image/service-icon2.png" alt="service-icon">
@@ -87,8 +89,10 @@
                             <p>Size özel ve etkileyici iç mimari tasarımlar sunuyoruz. Estetiği işlevsellikle birleştirerek, yaşam alanlarınızı tam olarak yansıtan mekânlar oluşturuyoruz.</p>
                         </div>
                     </div>
-                    <!-- Service 2 end -->
+                </div>
+                <!-- Service 2 end -->
 
+                <div class="col-lg-3 mt-5 mt-lg-0 mb-4 mb-lg-0">
                     <div class="ts-service-box d-flex">
                         <div class="ts-service-box-img">
                             <img loading="lazy" src="images/icon-image/service-icon3.png" alt="service-icon">
@@ -98,16 +102,10 @@
                             <p>Tecrübeli ekibimizle, nesilden aktarılan bilgi ve teknik bilgiyi birleştirerek en iyi uygulamayı gerçekleştiriyoruz. Tasarımlarımızı hayata geçirirken geçmişten gelen birikimimizi ve güncel teknikleri kullanıyoruz.</p>
                         </div>
                     </div>
-                    <!-- Service 3 end -->
-
                 </div>
-                <!-- Col end -->
-                <div class="col-lg-4 text-center">
-                    <img loading="lazy" class="img-fluid" src="images/team/SametG.jpg" style="height: 90%;" alt="güler-mimarlık-ve-mobilya">
-                </div>
-                <!-- Col end -->
+                <!-- Service 3 end -->
 
-                <div class="col-lg-4 mt-5 mt-lg-0 mb-4 mb-lg-0">
+                <div class="col-lg-3 mt-5 mt-lg-0 mb-4 mb-lg-0">
                     <div class="ts-service-box d-flex">
                         <div class="ts-service-box-img">
                             <img loading="lazy" src="images/icon-image/service-icon4.png" alt="service-icon">
@@ -118,31 +116,11 @@
                         </div>
                     </div>
                     <!-- Service 4 end -->
-
-                    <div class="ts-service-box d-flex">
-                        <div class="ts-service-box-img">
-                            <img loading="lazy" src="images/icon-image/service-icon5.png" alt="service-icon">
-                        </div>
-                        <div class="ts-service-box-info">
-                            <h3 class="service-box-title"><a href="#">YAPI</a></h3>
-                            <p>Estetik ve işlevselliği bir araya getirerek hayallerinizi gerçeğe dönüştürüyoruz. Titizlikle ilerleyerek, kaliteli malzemeler ve uzman ekiplerle mükemmel yapılar inşa ediyoruz.</p>
-                        </div>
-                    </div>
-                    <!-- Service 5 end -->
-
-                    <div class="ts-service-box d-flex">
-                        <div class="ts-service-box-img">
-                            <img loading="lazy" src="images/icon-image/furniture.png" alt="service-icon">
-                        </div>
-                        <div class="ts-service-box-info">
-                            <h3 class="service-box-title"><a href="#">MOBİLYA</a></h3>
-                            <p>Özgün mobilyalarımızla yaşam alanlarınıza estetik bir dokunuş katıyoruz. İhtiyaçlarınıza ve tarzınıza uygun özelleştirilebilir tasarımlar sunuyoruz.</p>
-                        </div>
-                    </div>
-                    <!-- Service 6 end -->
                 </div>
                 <!-- Col end -->
             </div>
+            <!-- Row end -->
+
             <!-- Content row end -->
 
         </div>
@@ -170,7 +148,7 @@
                             <input type="radio" name="shuffle-filter" id="loby" value="loby">Lobi Tasarımı
                         </label>
                         <label for="home">
-                            <input type="radio" name="shuffle-filter" id="home" value="home">Ev Tasarımı
+                            <input type="radio" name="shuffle-filter" id="home" value="home">Konut Tasarımı
                         </label>
                         <label for="office">
                             <input type="radio" name="shuffle-filter" id="office" value="office">Ofis Tasarımı
@@ -182,7 +160,7 @@
                     <div class="row shuffle-wrapper">
                         <div class="col-1 shuffle-sizer"></div>
 
-                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;loby&quot;]" >
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;loby&quot;]">
                             <div class="project-img-container">
                                 <a class="gallery-popup" href="images/projects/lobi1.jpg" aria-label="project-img">
                                     <img class="img-fluid" src="images/projects/lobi1.jpg" alt="project-img">
@@ -194,7 +172,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">İş Merkezi Lobi Tasarımı</a>
+                                            <a class="gallery-popup" href="images/projects/lobi1.jpg" aria-label="project-img">İş Merkezi Lobi Tasarımı</a>
                                         </h3>
                                         <p class="project-cat">Lobi Tasarımı</p>
                                     </div>
@@ -214,7 +192,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">Özdemir Bey Evi</a>
+                                            <a class="gallery-popup" href="images/projects/ev1.jpg" aria-label="project-img">Özdemir Bey Evi</a>
                                         </h3>
                                         <p class="project-cat">Ev Tasarımı</p>
                                     </div>
@@ -235,7 +213,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">Sandallar Evi</a>
+                                            <a class="gallery-popup" href="images/projects/ev3.jpg" aria-label="project-img">Sandallar Evi</a>
                                         </h3>
                                         <p class="project-cat">Ev Tasarımı</p>
                                     </div>
@@ -268,7 +246,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">Tiryaki Evi</a>
+                                            <a class="gallery-popup" href="images/projects/ev6.jpg" aria-label="project-img">Tiryaki Evi</a>
                                         </h3>
                                         <p class="project-cat">Ev Tasarımı</p>
                                     </div>
@@ -289,7 +267,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">Özkan Bey</a>
+                                            <a class="gallery-popup" href="images/projects/ofis1.jpg" aria-label="project-img">Özkan Bey</a>
                                         </h3>
                                         <p class="project-cat">Ofis Tasarımı</p>
                                     </div>

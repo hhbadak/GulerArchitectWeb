@@ -71,8 +71,6 @@
     <Content Include="about.aspx" />
     <Content Include="contact.aspx" />
     <Content Include="css\style.css" />
-    <Content Include="furniture-single.aspx" />
-    <Content Include="furniture.aspx" />
     <Content Include="images\banner\about.png" />
     <Content Include="images\banner\banner1.jpg" />
     <Content Include="images\banner\banner2.jpg" />
@@ -145,6 +143,7 @@
     <Content Include="images\slider-pages\slide-page1.jpg" />
     <Content Include="images\slider-pages\slide-page2.jpg" />
     <Content Include="images\slider-pages\slide-page3.jpg" />
+    <Content Include="images\team\logo.png" />
     <Content Include="images\team\SametG.jpg" />
     <Content Include="index.aspx" />
     <Content Include="js\script.js" />
@@ -195,20 +194,6 @@
     </Compile>
     <Compile Include="contact.aspx.designer.cs">
       <DependentUpon>contact.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="furniture-single.aspx.cs">
-      <DependentUpon>furniture-single.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="furniture-single.aspx.designer.cs">
-      <DependentUpon>furniture-single.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="furniture.aspx.cs">
-      <DependentUpon>furniture.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="furniture.aspx.designer.cs">
-      <DependentUpon>furniture.aspx</DependentUpon>
     </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
