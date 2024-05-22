@@ -37,7 +37,7 @@
             </div>
         </div>
 
-        <div class="banner-carousel-item" style="background-image: url(images/banner/banner3.jpg)">
+       <%-- <div class="banner-carousel-item" style="background-image: url(images/banner/banner3.jpg)">
             <div class="slider-content text-right">
                 <div class="container h-100">
                     <div class="row align-items-center h-100">
@@ -52,7 +52,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>--%>
     </div>
 
     <section id="ts-service-area" class="ts-service-area solid-bg pb-0">
@@ -152,6 +152,9 @@
                         </label>
                         <label for="office">
                             <input type="radio" name="shuffle-filter" id="office" value="office">Ofis Tasarımı
+                        </label>
+                        <label for="cafe">
+                            <input type="radio" name="shuffle-filter" id="cafe" value="cafe">Cafe Tasarımı
                         </label>
                     </div>
                     <!-- project filter end -->
@@ -275,6 +278,27 @@
                             </div>
                         </div>
                         <!-- shuffle item 5 end -->
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;cafe&quot;]">
+                            <div class="project-img-container">
+                                <a class="gallery-popup" href="images/projects/cafe1.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/cafe1.jpg" alt="project-img">
+                                    <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+                                </a>
+                                <a class="gallery-popup" href="images/projects/cafe2.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/cafe3.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/cafe4.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/cafe5.jpg" aria-label="project-img"></a>
+                                <div class="project-item-info">
+                                    <div class="project-item-info-content">
+                                        <h3 class="project-item-title">
+                                            <a class="gallery-popup" href="images/projects/cafe1.jpg" aria-label="project-img">Green Cafe</a>
+                                        </h3>
+                                        <p class="project-cat">İÇ MEKAN TASARIMI</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- shuffle item 6 end -->
                     </div>
                     <!-- shuffle end -->
                 </div>
