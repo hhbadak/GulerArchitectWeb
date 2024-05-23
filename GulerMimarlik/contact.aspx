@@ -4,8 +4,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-     <div id="banner-area" class="banner-area">
-        <img src="images/team/team.jpg" style="width: 100%; height: 500px; display: block;"/>
+    <div id="banner-area" class="banner-areas">
+        <img src="images/team/team.jpg" style="width: 100%; display: block;" />
     </div>
 
     <section id="main-container" class="main-container">

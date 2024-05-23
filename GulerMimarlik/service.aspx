@@ -4,8 +4,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    <div id="banner-area" class="banner-area">
-        <img src="images/services/bannerLogo.png" style="width: 100%; height: 300px; display: block;"/>
+    <div id="banner-area" class="banner-areas">
+        <img src="images/services/bannerLogo.png" style="width: 100%; display: block;" />
     </div>
     <!-- Banner area end -->
 
@@ -43,7 +43,8 @@
                             </div>
                             <div class="ts-service-info">
                                 <h3 class="service-box-title"><a href="service-single.html">İÇ MİMARİ</a></h3>
-                                <p>Mekânlarınızı dönüştürmek için buradayız. İç mimari konusunda uzman ekibimizle, size özel ve etkileyici tasarımlar sunuyoruz. Estetiği işlevsellikle birleştirerek, yaşam alanlarınızı tam anlamıyla yansıtan mekânlar oluşturuyoruz.
+                                <p>
+                                    Mekânlarınızı dönüştürmek için buradayız. İç mimari konusunda uzman ekibimizle, size özel ve etkileyici tasarımlar sunuyoruz. Estetiği işlevsellikle birleştirerek, yaşam alanlarınızı tam anlamıyla yansıtan mekânlar oluşturuyoruz.
 
                             </div>
                         </div>

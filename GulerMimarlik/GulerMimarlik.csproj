@@ -71,6 +71,8 @@
     <Content Include="about.aspx" />
     <Content Include="contact.aspx" />
     <Content Include="css\style.css" />
+    <Content Include="images\banner\1.jpg" />
+    <Content Include="images\banner\2.jpg" />
     <Content Include="images\banner\about.png" />
     <Content Include="images\banner\banner1.jpg" />
     <Content Include="images\banner\banner2.jpg" />
@@ -97,11 +99,11 @@
     <Content Include="images\LogoS.png" />
     <Content Include="images\marker.png" />
     <Content Include="images\parallax1.jpg" />
-    <Content Include="images\projects\cafe1.jpg" />
-    <Content Include="images\projects\cafe2.jpg" />
-    <Content Include="images\projects\cafe3.jpg" />
-    <Content Include="images\projects\cafe4.jpg" />
-    <Content Include="images\projects\cafe5.jpg" />
+    <Content Include="images\projects\1.jpg" />
+    <Content Include="images\projects\2.jpg" />
+    <Content Include="images\projects\3.jpg" />
+    <Content Include="images\projects\4.jpg" />
+    <Content Include="images\projects\5.jpg" />
     <Content Include="images\projects\ev1.jpg" />
     <Content Include="images\projects\ev10.jpg" />
     <Content Include="images\projects\ev11.jpg" />
@@ -124,6 +126,10 @@
     <Content Include="images\projects\ev7.jpg" />
     <Content Include="images\projects\ev8.jpg" />
     <Content Include="images\projects\ev9.jpg" />
+    <Content Include="images\projects\g1.jpg" />
+    <Content Include="images\projects\g2.jpg" />
+    <Content Include="images\projects\g3.jpg" />
+    <Content Include="images\projects\g4.jpg" />
     <Content Include="images\projects\lobi1.jpg" />
     <Content Include="images\projects\lobi2.jpg" />
     <Content Include="images\projects\lobi3.jpg" />

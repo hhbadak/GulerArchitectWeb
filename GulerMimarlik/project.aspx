@@ -56,6 +56,9 @@
                         <label for="office">
                             <input type="radio" name="shuffle-filter" id="office" value="office">Ofis Tasarımı
                         </label>
+                        <label for="cafe">
+                            <input type="radio" name="shuffle-filter" id="cafe" value="cafe">Cafe Tasarımı
+                        </label>
                     </div>
                     <!-- project filter end -->
 
@@ -75,7 +78,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">İş Merkezi Lobi Tasarımı</a>
+                                            <a class="gallery-popup" href="images/projects/lobi1.jpg" aria-label="project-img">İş Merkezi Lobi Tasarımı</a>
                                         </h3>
                                         <p class="project-cat">Lobi Tasarımı</p>
                                     </div>
@@ -95,7 +98,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">Özdemir Bey Evi</a>
+                                            <a class="gallery-popup" href="images/projects/ev1.jpg" aria-label="project-img">Özdemir Bey Evi</a>
                                         </h3>
                                         <p class="project-cat">Ev Tasarımı</p>
                                     </div>
@@ -116,7 +119,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">Sandallar Evi</a>
+                                            <a class="gallery-popup" href="images/projects/ev3.jpg" aria-label="project-img">Sandallar Evi</a>
                                         </h3>
                                         <p class="project-cat">Ev Tasarımı</p>
                                     </div>
@@ -149,7 +152,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">Tiryaki Evi</a>
+                                            <a class="gallery-popup" href="images/projects/ev6.jpg" aria-label="project-img">Tiryaki Evi</a>
                                         </h3>
                                         <p class="project-cat">Ev Tasarımı</p>
                                     </div>
@@ -170,7 +173,7 @@
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a href="#">Özkan Bey</a>
+                                            <a class="gallery-popup" href="images/projects/ofis1.jpg" aria-label="project-img">Özkan Bey</a>
                                         </h3>
                                         <p class="project-cat">Ofis Tasarımı</p>
                                     </div>
@@ -178,10 +181,50 @@
                             </div>
                         </div>
                         <!-- shuffle item 5 end -->
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;cafe&quot;]">
+                            <div class="project-img-container">
+                                <a class="gallery-popup" href="images/projects/1.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/1.jpg" alt="project-img">
+                                    <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+                                </a>
+                                <a class="gallery-popup" href="images/projects/2.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/3.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/4.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/5.jpg" aria-label="project-img"></a>
+                                <div class="project-item-info">
+                                    <div class="project-item-info-content">
+                                        <h3 class="project-item-title">
+                                            <a class="gallery-popup" href="images/projects/1.jpg" aria-label="project-img">Green Cafe</a>
+                                        </h3>
+                                        <p class="project-cat">İÇ MEKAN TASARIMI</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- shuffle item 6 end -->
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;office&quot;]">
+                            <div class="project-img-container">
+                                <a class="gallery-popup" href="images/projects/g1.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/g1.jpg" alt="project-img">
+                                    <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+                                </a>
+                                <a class="gallery-popup" href="images/projects/g2.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/g3.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/g4.jpg" aria-label="project-img"></a>
+                                <div class="project-item-info">
+                                    <div class="project-item-info-content">
+                                        <h3 class="project-item-title">
+                                            <a class="gallery-popup" href="images/projects/1.jpg" aria-label="project-img">Güzide Hanım Home Office</a>
+                                        </h3>
+                                        <p class="project-cat">Home Office Tasarımı</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- shuffle item 7 end -->
                     </div>
                     <!-- shuffle end -->
                 </div>
-
             </div>
             <!-- Content row end -->
         </div>

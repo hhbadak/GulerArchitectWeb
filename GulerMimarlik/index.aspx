@@ -37,13 +37,13 @@
             </div>
         </div>
 
-       <%-- <div class="banner-carousel-item" style="background-image: url(images/banner/banner3.jpg)">
+        <div class="banner-carousel-item" style="background-image: url(images/banner/1.jpg)">
             <div class="slider-content text-right">
                 <div class="container h-100">
                     <div class="row align-items-center h-100">
                         <div class="col-md-12">
-                            <h2 class="slide-title" data-animation-in="slideInDown">Feridun Bey Evi</h2>
-                            <h3 class="slide-sub-title" data-animation-in="fadeIn">Restorasyon Çalışması</h3>
+                            <h2 class="slide-title-box" data-animation-in="slideInDown"><b>Green Cafe</b></h2>
+                            <h3 class="slide-sub-title" data-animation-in="fadeIn">İç Mekan Tasarım ve Uygulaması</h3>
                             <div data-animation-in="slideInLeft">
                                 <a href="contact.aspx" class="slider btn btn-primary" aria-label="contact-with-us">İletişime Geç</a>
                                 <a href="about.aspx" class="slider btn btn-primary border" aria-label="learn-more-about-us">Hakkımızda</a>
@@ -52,7 +52,24 @@
                     </div>
                 </div>
             </div>
-        </div>--%>
+        </div>
+
+        <div class="banner-carousel-item" style="background-image: url(images/banner/2.jpg)">
+            <div class="slider-content text-left">
+                <div class="container h-100">
+                    <div class="row align-items-center h-100">
+                        <div class="col-md-12">
+                            <h2 class="slide-title-box" data-animation-in="slideInDown"><b>Hasan Bey Evi</b></h2>
+                            <h3 class="slide-sub-title" data-animation-in="fadeIn">İç Mekan Tasarımı</h3>
+                            <div data-animation-in="slideInLeft">
+                                <a href="contact.aspx" class="slider btn btn-primary" aria-label="contact-with-us">İletişime Geç</a>
+                                <a href="about.aspx" class="slider btn btn-primary border" aria-label="learn-more-about-us">Hakkımızda</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <section id="ts-service-area" class="ts-service-area solid-bg pb-0">
@@ -280,18 +297,18 @@
                         <!-- shuffle item 5 end -->
                         <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;cafe&quot;]">
                             <div class="project-img-container">
-                                <a class="gallery-popup" href="images/projects/cafe1.jpg" aria-label="project-img">
-                                    <img class="img-fluid" src="images/projects/cafe1.jpg" alt="project-img">
+                                <a class="gallery-popup" href="images/projects/1.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/1.jpg" alt="project-img">
                                     <span class="gallery-icon"><i class="fa fa-plus"></i></span>
                                 </a>
-                                <a class="gallery-popup" href="images/projects/cafe2.jpg" aria-label="project-img"></a>
-                                <a class="gallery-popup" href="images/projects/cafe3.jpg" aria-label="project-img"></a>
-                                <a class="gallery-popup" href="images/projects/cafe4.jpg" aria-label="project-img"></a>
-                                <a class="gallery-popup" href="images/projects/cafe5.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/2.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/3.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/4.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/5.jpg" aria-label="project-img"></a>
                                 <div class="project-item-info">
                                     <div class="project-item-info-content">
                                         <h3 class="project-item-title">
-                                            <a class="gallery-popup" href="images/projects/cafe1.jpg" aria-label="project-img">Green Cafe</a>
+                                            <a class="gallery-popup" href="images/projects/1.jpg" aria-label="project-img">Green Cafe</a>
                                         </h3>
                                         <p class="project-cat">İÇ MEKAN TASARIMI</p>
                                     </div>
@@ -299,6 +316,27 @@
                             </div>
                         </div>
                         <!-- shuffle item 6 end -->
+
+                        <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;office&quot;]">
+                            <div class="project-img-container">
+                                <a class="gallery-popup" href="images/projects/g1.jpg" aria-label="project-img">
+                                    <img class="img-fluid" src="images/projects/g1.jpg" alt="project-img">
+                                    <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+                                </a>
+                                <a class="gallery-popup" href="images/projects/g2.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/g3.jpg" aria-label="project-img"></a>
+                                <a class="gallery-popup" href="images/projects/g4.jpg" aria-label="project-img"></a>
+                                <div class="project-item-info">
+                                    <div class="project-item-info-content">
+                                        <h3 class="project-item-title">
+                                            <a class="gallery-popup" href="images/projects/1.jpg" aria-label="project-img">Güzide Hanım Home Office</a>
+                                        </h3>
+                                        <p class="project-cat">Home Office Tasarımı</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- shuffle item 7 end -->
                     </div>
                     <!-- shuffle end -->
                 </div>
