@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
     <div id="banner-area" class="banner-area">
-        <img src="images/services/sg.jpg" style="width: 100%; height: 300px; display: block;"/>
+        <img src="images/services/bannerLogo.png" style="width: 100%; height: 300px; display: block;"/>
     </div>
     <!-- Banner area end -->
 

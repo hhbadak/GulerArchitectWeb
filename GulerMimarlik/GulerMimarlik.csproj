@@ -94,7 +94,7 @@
     <Content Include="images\icon-image\service-icon4.png" />
     <Content Include="images\icon-image\service-icon5.png" />
     <Content Include="images\icon-image\service-icon6.png" />
-    <Content Include="images\LogoG.png" />
+    <Content Include="images\LogoS.png" />
     <Content Include="images\marker.png" />
     <Content Include="images\parallax1.jpg" />
     <Content Include="images\projects\cafe1.jpg" />
@@ -138,6 +138,7 @@
     <Content Include="images\services\3.jpg" />
     <Content Include="images\services\4.jpg" />
     <Content Include="images\services\5.jpg" />
+    <Content Include="images\services\bannerLogo.png" />
     <Content Include="images\services\furnitureimg.jpg" />
     <Content Include="images\services\mimari.jpg" />
     <Content Include="images\services\service1.jpg" />
